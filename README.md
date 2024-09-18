@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amr Mohamed Ibrahim</h1>
-<h3 align="center">A asp.net core Backend developer</h3>
+<h3 align="center">Software developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
